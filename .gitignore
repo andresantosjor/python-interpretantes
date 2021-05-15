@@ -1,1 +1,8 @@
 venv/
+config.env
+*.db
+*.png
+*.jpg
+*.xlsx
+data/
+interpretants/
